@@ -1,6 +1,8 @@
 ## Course Registration & Management System (Degree Final Year Project)
 
+
 > Note: This project is no longer being maintained. :smile:
+
 
 1) Copy the project folder into the htdocs:
 
@@ -81,12 +83,12 @@ Therefore, when the visitor send an inquiry message, we can log in this gmail an
 
 ---------------------------------------- Users Account -------------------------------------------------
 
-------------------------------- Admin ---------------------------------
+1) Admin
 
 Username: admin
 Password: admin
 
-------------------------------- Lecturer ---------------------------------
+2) Lecturer
 
 Ms. Kumatha
 
@@ -98,7 +100,7 @@ Mr. Feroz
 Username: feroz
 Password: feroz
 
-------------------------------- Student ---------------------------------
+3) Student
 
 Keng Wei
 
