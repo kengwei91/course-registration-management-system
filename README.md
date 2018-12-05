@@ -1,6 +1,4 @@
-# Course Registration & Management System
-
-##  Degree Final Year Project
+## Course Registration & Management System (Degree Final Year Project)
 
 > Note: This project is no longer being maintained. :smile:
 
