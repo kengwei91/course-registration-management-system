@@ -1,3 +1,9 @@
+# Course Registration & Management System
+
+##  Degree Final Year Project
+
+> Note: This project is no longer being maintained. :smile:
+
 1) Copy the project folder into the htdocs:
 
 Example: 
