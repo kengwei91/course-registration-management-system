@@ -75,6 +75,42 @@ Password: freecycle
 
 Therefore, when the visitor send an inquiry message, we can log in this gmail and read it.
 
+---------------------------------------- Users Account -------------------------------------------------
+
+------------------------------- Admin ---------------------------------
+
+Username: admin
+Password: admin
+
+------------------------------- Lecturer ---------------------------------
+
+Ms. Kumatha
+
+Username: kumatha
+Password: kumatha
+
+Mr. Feroz
+
+Username: feroz
+Password: feroz
+
+------------------------------- Student ---------------------------------
+
+Keng Wei
+
+Username: kengwei
+Password: kengwei
+
+Xuan
+
+Username: xuan
+Password: xuan
+
+Chris
+
+Username: chris
+Password: chris
+
 
 ----------------------------------------------------THE END--------------------------------------------------
 
